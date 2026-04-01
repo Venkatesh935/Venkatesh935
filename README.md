@@ -1,11 +1,10 @@
 # Hi 👋 I'm Venkatesh
 
-💻 Aspiring Software Developer | Java | Web Development |Mongo BD
-
+💻 Aspiring Java Full Stack Developer | Spring Boot | Web Development
 ---
 
 ## 🚀 About Me
-- 🎓 MCA Pursuing
+- 🎓 Currently pursuing MCA
 - 🎓 BCA Graduate  
 - 💡 Passionate about building real-world applications  
 - 🔍 Currently looking for job opportunities  
@@ -17,7 +16,7 @@
 - Programming: Java, C  
 - Web: HTML, CSS, JavaScript  
 - Backend: Spring Boot  
-- Database: MySQL / Mongo DB 
+- Database: MySQL , Mongo DB 
 - Tools: Git, GitHub, VS Code, Eclipse  
 
 ---
@@ -51,11 +50,18 @@
 ## 📊 GitHub Stats
 ![Venkatesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatesh935&layout=compact&theme=radical)
+
+## Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=Venkatesh935&theme=radical)
+
 ---
 
 ## 📫 Contact Me
 - 📧 Email: vv966844@gmail.com  
-- 📱 Phone: 9353659830
+- ℹ️ LinkedIn https://www.linkedin.com/in/k-venkatesh-545ba9250/
+- 🧑🏻‍💻 Portfolio: https://venkatesh-fullstack.netlify.app
 
 ---
 
