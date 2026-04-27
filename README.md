@@ -48,7 +48,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Venkatesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Venkatesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Venkatesh935&show_icons=true&theme=radical)
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatesh935&layout=compact&theme=radical)
