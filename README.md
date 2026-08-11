@@ -61,7 +61,7 @@
 ## 📫 Contact Me
 - 📧 Email: vv966844@gmail.com  
 - ℹ️ LinkedIn https://www.linkedin.com/in/k-venkatesh-545ba9250/
-- 🧑🏻‍💻 Portfolio: https://venkatesh-fullstack.netlify.app
+- 🧑🏻‍💻 Portfolio: [https://venkatesh-fullstack.netlify.app](https://venkatesh-e-resume.netlify.app/)
 
 ---
 
